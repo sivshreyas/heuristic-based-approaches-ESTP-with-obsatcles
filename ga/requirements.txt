@@ -1,0 +1,6 @@
+atomics==1.0.2
+joblib==1.1.0
+matplotlib
+numpy
+scipy==1.7.2
+Shapely==1.8.1.post1
